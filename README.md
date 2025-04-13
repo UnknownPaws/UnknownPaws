@@ -18,9 +18,9 @@ Passionate about algorithmic trading, esoteric languages, and building cool thin
 
 <p align="center">
   <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/iTerm2-15171f?style=for-the-badge&logo=iterm2&logoColor=white" />
   <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" />
   <img src="https://img.shields.io/badge/Tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white" />
-  <img src="https://img.shields.io/badge/iTerm2-1F222E?style=for-the-badge&logo=iterm2&logoColor=white" />
   
 </p>
 
